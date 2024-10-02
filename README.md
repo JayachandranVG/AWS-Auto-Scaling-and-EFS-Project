@@ -1,1 +1,1 @@
-# AWS-Auto-Scaling-and-EFS-Project
+# AWS-Auto-Scaling with load balancer-and-EFS-Project
